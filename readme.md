@@ -189,7 +189,7 @@ ADVANCED SETTINGS
         simulink coder      
 
 -硬件支持：  NUCLEO-F401RE
-stm32的开发目前只支持 stm32cubemx+hal库的模式，暂时不支持标准库
+stm32的开发目前只支持 stm32cubemx+LL库的模式，暂时不支持标准库和hal库
    
 
 
